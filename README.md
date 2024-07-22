@@ -23,5 +23,6 @@ Start the game with:
 ```bash
 python main.py
 ```
-output file:
+4. output file:
+
 ![tetris](https://github.com/user-attachments/assets/cf5aabc3-24b7-42a5-81b7-59e689bd406b)
